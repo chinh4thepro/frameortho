@@ -1,0 +1,5 @@
+*.bak
+Extras/ScottoModules/STM32F072CBT6/ScottoModules-backups/
+Extras/ScottoModules/STM32F072CBT6/fp-info-cache
+.DS_Store
+compile_commands.json
