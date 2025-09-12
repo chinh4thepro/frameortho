@@ -1,0 +1,6 @@
+[submodule "modules/scottokeebs"]
+	path = modules/scottokeebs
+	url = https://github.com/joe-scotto/scottokeebs/
+[submodule "modules/key-switches.pretty"]
+	path = modules/key-switches.pretty
+	url = https://github.com/siderakb/key-switches.pretty.git
