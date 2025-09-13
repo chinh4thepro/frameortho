@@ -78,5 +78,527 @@
 		)
 	)
 	(net 0 "")
+	(net 1 "EC_CTRL")
+	(net 2 "RGB_W")
+	(net 3 "RGB_G")
+	(net 4 "VBUS")
+	(net 5 "USB_HOST_P")
+	(net 6 "USB_HOST_N")
+	(net 7 "RGB_R")
+	(net 8 "SWITCH")
+	(net 9 "GND")
+	(net 10 "LED_COM")
+	(footprint "Custom:Kyocera_046809610110846+_PCB_Edge"
+		(layer "F.Cu")
+		(uuid "e0f8b3f2-4277-4b46-8b2f-6dd8b2128840")
+		(at 147.87 35.0725 -90)
+		(property "Reference" "J1"
+			(at 0 -2.5 270)
+			(unlocked yes)
+			(layer "F.SilkS")
+			(uuid "eb3298f2-bcee-47b0-b741-967d06eecf5c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.1)
+				)
+			)
+		)
+		(property "Value" "046809610110846+ Male"
+			(at 0 3.325 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "067faa5d-db37-4ff4-a25f-f0eea7cfb6d9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8b238d78-7281-4458-b7a8-853ec8a7452b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x10, script generated"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a4a78e1c-ec3c-4619-855c-5fc5955959d9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
+		(path "/f70ed037-9e75-4efd-b553-fc4f7f7657dd")
+		(sheetname "/")
+		(sheetfile "usb-hub.kicad_sch")
+		(attr smd)
+		(fp_line
+			(start -3.075 1.85)
+			(end 3.075 1.85)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "24a51348-ec16-47b7-9b2b-a6a6dd2c901c")
+		)
+		(fp_line
+			(start -2.725 0.9)
+			(end 2.725 0.9)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "11a00ced-0fb2-44dd-8056-2395bae34633")
+		)
+		(fp_line
+			(start -3.075 1.35)
+			(end -3.075 1.85)
+			(stroke
+				(width 0.05)
+				(type default)
+			)
+			(layer "Edge.Cuts")
+			(uuid "9e0d0728-e29e-42c6-a44c-e91802ed03a6")
+		)
+		(fp_line
+			(start -2.925 1.35)
+			(end -3.075 1.35)
+			(stroke
+				(width 0.05)
+				(type default)
+			)
+			(layer "Edge.Cuts")
+			(uuid "260b6203-dcc7-4db6-913a-bc53e36d13e7")
+		)
+		(fp_line
+			(start 2.925 1.35)
+			(end 3.075 1.35)
+			(stroke
+				(width 0.05)
+				(type default)
+			)
+			(layer "Edge.Cuts")
+			(uuid "a9366c6b-becd-4d4d-af32-054eac3cb3cb")
+		)
+		(fp_line
+			(start 3.075 1.35)
+			(end 3.075 1.85)
+			(stroke
+				(width 0.05)
+				(type default)
+			)
+			(layer "Edge.Cuts")
+			(uuid "dc59b7d9-91f7-458a-9e5f-4b43b251071a")
+		)
+		(fp_line
+			(start -2.725 0.4)
+			(end -2.725 1.15)
+			(stroke
+				(width 0.05)
+				(type default)
+			)
+			(layer "Edge.Cuts")
+			(uuid "50a45351-30d5-48f9-8b5a-6cd5ee0bbb79")
+		)
+		(fp_line
+			(start 2.725 0.4)
+			(end 2.725 1.15)
+			(stroke
+				(width 0.05)
+				(type default)
+			)
+			(layer "Edge.Cuts")
+			(uuid "0e2a2ae2-ee31-4803-b09d-f2053928ec98")
+		)
+		(fp_line
+			(start -3.075 0.2)
+			(end -2.925 0.2)
+			(stroke
+				(width 0.05)
+				(type default)
+			)
+			(layer "Edge.Cuts")
+			(uuid "4abb05af-80b2-498d-b01f-b1f49e47d0c0")
+		)
+		(fp_line
+			(start 3.075 0.2)
+			(end 2.925 0.2)
+			(stroke
+				(width 0.05)
+				(type default)
+			)
+			(layer "Edge.Cuts")
+			(uuid "ad13b675-5d50-4a8d-b05d-486d790e7d75")
+		)
+		(fp_line
+			(start -3.075 -1.45)
+			(end -3.075 0.2)
+			(stroke
+				(width 0.05)
+				(type default)
+			)
+			(layer "Edge.Cuts")
+			(uuid "96dbdd99-9cb9-4c79-a54e-a686debc3e05")
+		)
+		(fp_line
+			(start 3.075 -1.45)
+			(end 3.075 0.2)
+			(stroke
+				(width 0.05)
+				(type default)
+			)
+			(layer "Edge.Cuts")
+			(uuid "daca430d-efdc-4d7a-9aa2-bde5a9cb501e")
+		)
+		(fp_line
+			(start 2.875 -1.65)
+			(end -2.875 -1.65)
+			(stroke
+				(width 0.05)
+				(type default)
+			)
+			(layer "Edge.Cuts")
+			(uuid "cff1b9e2-023c-4855-ae76-00c87929824f")
+		)
+		(fp_arc
+			(start 2.925 1.35)
+			(mid 2.783579 1.291421)
+			(end 2.725 1.15)
+			(stroke
+				(width 0.05)
+				(type default)
+			)
+			(layer "Edge.Cuts")
+			(uuid "0739f889-75ed-4580-8f2f-235d0a72d853")
+		)
+		(fp_arc
+			(start -2.725 1.15)
+			(mid -2.783579 1.291421)
+			(end -2.925 1.35)
+			(stroke
+				(width 0.05)
+				(type default)
+			)
+			(layer "Edge.Cuts")
+			(uuid "71c43aee-2822-46d0-a4a2-32a2bfe2b3e3")
+		)
+		(fp_arc
+			(start 2.725 0.4)
+			(mid 2.783579 0.258579)
+			(end 2.925 0.2)
+			(stroke
+				(width 0.05)
+				(type default)
+			)
+			(layer "Edge.Cuts")
+			(uuid "67386fef-77c1-492a-920e-65df81f8501f")
+		)
+		(fp_arc
+			(start -2.925 0.2)
+			(mid -2.783579 0.258579)
+			(end -2.725 0.4)
+			(stroke
+				(width 0.05)
+				(type default)
+			)
+			(layer "Edge.Cuts")
+			(uuid "e79377c1-5459-4cac-9550-bbfba8717cda")
+		)
+		(fp_arc
+			(start -3.075 -1.45)
+			(mid -3.016421 -1.591421)
+			(end -2.875 -1.65)
+			(stroke
+				(width 0.05)
+				(type default)
+			)
+			(layer "Edge.Cuts")
+			(uuid "ab144fa9-bf75-4919-87b5-916f86d679ee")
+		)
+		(fp_arc
+			(start 2.875 -1.65)
+			(mid 3.016421 -1.591421)
+			(end 3.075 -1.45)
+			(stroke
+				(width 0.05)
+				(type default)
+			)
+			(layer "Edge.Cuts")
+			(uuid "4765f083-13e5-4944-bb6f-85c8e5e97fdd")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 1.575 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(uuid "c842d145-d09e-4c83-8645-fd780b79b58e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(pad "1" connect custom
+			(at -2.25 -0.375 270)
+			(size 0.35 2.5)
+			(layers "B.Cu" "B.Mask")
+			(net 4 "VBUS")
+			(pinfunction "Pin_1")
+			(pintype "passive")
+			(options
+				(clearance outline)
+				(anchor rect)
+			)
+			(primitives)
+			(uuid "5aae55a7-357f-4178-8cde-45af2c0cf099")
+		)
+		(pad "2" connect custom
+			(at -1.75 -0.375 270)
+			(size 0.35 2.5)
+			(layers "B.Cu" "B.Mask")
+			(net 6 "USB_HOST_N")
+			(pinfunction "Pin_2")
+			(pintype "passive")
+			(options
+				(clearance outline)
+				(anchor rect)
+			)
+			(primitives)
+			(uuid "9fc95c95-fbfc-4ee0-80f3-a3a43624f528")
+		)
+		(pad "3" connect custom
+			(at -1.25 -0.375 270)
+			(size 0.35 2.5)
+			(layers "B.Cu" "B.Mask")
+			(net 5 "USB_HOST_P")
+			(pinfunction "Pin_3")
+			(pintype "passive")
+			(options
+				(clearance outline)
+				(anchor rect)
+			)
+			(primitives)
+			(uuid "707e570c-4003-4675-8a99-536a33d50f00")
+		)
+		(pad "4" connect custom
+			(at -0.75 -0.375 270)
+			(size 0.35 2.5)
+			(layers "B.Cu" "B.Mask")
+			(net 9 "GND")
+			(pinfunction "Pin_4")
+			(pintype "passive")
+			(options
+				(clearance outline)
+				(anchor rect)
+			)
+			(primitives)
+			(uuid "cb564086-4e97-4ecd-a4c7-dd8fa6d0656c")
+		)
+		(pad "5" connect custom
+			(at -0.25 -0.375 270)
+			(size 0.35 2.5)
+			(layers "B.Cu" "B.Mask")
+			(net 1 "EC_CTRL")
+			(pinfunction "Pin_5")
+			(pintype "passive")
+			(options
+				(clearance outline)
+				(anchor rect)
+			)
+			(primitives)
+			(uuid "14ab799d-3387-4bcc-b1e4-4de2122e37ca")
+		)
+		(pad "6" connect custom
+			(at 0.25 -0.375 270)
+			(size 0.35 2.5)
+			(layers "B.Cu" "B.Mask")
+			(net 8 "SWITCH")
+			(pinfunction "Pin_6")
+			(pintype "passive")
+			(options
+				(clearance outline)
+				(anchor rect)
+			)
+			(primitives)
+			(uuid "a570d6cd-de0e-494b-8dc6-0d0dcaaf3adc")
+		)
+		(pad "7" connect custom
+			(at 0.75 -0.375 270)
+			(size 0.35 2.5)
+			(layers "B.Cu" "B.Mask")
+			(net 2 "RGB_W")
+			(pinfunction "Pin_7")
+			(pintype "passive")
+			(options
+				(clearance outline)
+				(anchor rect)
+			)
+			(primitives)
+			(uuid "33c052f3-8f92-48ba-acfc-8e5e736d7ffc")
+		)
+		(pad "8" connect custom
+			(at 1.25 -0.375 270)
+			(size 0.35 2.5)
+			(layers "B.Cu" "B.Mask")
+			(net 3 "RGB_G")
+			(pinfunction "Pin_8")
+			(pintype "passive")
+			(options
+				(clearance outline)
+				(anchor rect)
+			)
+			(primitives)
+			(uuid "5725c1c7-d642-4914-8a13-cb963125f03d")
+		)
+		(pad "9" connect custom
+			(at 1.75 -0.375 270)
+			(size 0.35 2.5)
+			(layers "B.Cu" "B.Mask")
+			(net 7 "RGB_R")
+			(pinfunction "Pin_9")
+			(pintype "passive")
+			(options
+				(clearance outline)
+				(anchor rect)
+			)
+			(primitives)
+			(uuid "a555a996-8289-4d0b-a8d6-a163de27bba8")
+		)
+		(pad "10" connect custom
+			(at 2.25 -0.375 270)
+			(size 0.35 2.5)
+			(layers "B.Cu" "B.Mask")
+			(net 10 "LED_COM")
+			(pinfunction "Pin_10")
+			(pintype "passive")
+			(options
+				(clearance outline)
+				(anchor rect)
+			)
+			(primitives)
+			(uuid "d137f562-6ff1-4d3e-b3a4-e8b7c189238c")
+		)
+		(group ""
+			(uuid "f75a580b-08ff-44f1-9935-5f81c4f29815")
+			(members "14ab799d-3387-4bcc-b1e4-4de2122e37ca" "33c052f3-8f92-48ba-acfc-8e5e736d7ffc"
+				"5725c1c7-d642-4914-8a13-cb963125f03d" "5aae55a7-357f-4178-8cde-45af2c0cf099"
+				"707e570c-4003-4675-8a99-536a33d50f00" "9fc95c95-fbfc-4ee0-80f3-a3a43624f528"
+				"a555a996-8289-4d0b-a8d6-a163de27bba8" "a570d6cd-de0e-494b-8dc6-0d0dcaaf3adc"
+				"cb564086-4e97-4ecd-a4c7-dd8fa6d0656c" "d137f562-6ff1-4d3e-b3a4-e8b7c189238c"
+			)
+		)
+		(group ""
+			(uuid "17f2ce74-2d4a-46c2-870f-31437314379c")
+			(members "0739f889-75ed-4580-8f2f-235d0a72d853" "0e2a2ae2-ee31-4803-b09d-f2053928ec98"
+				"11a00ced-0fb2-44dd-8056-2395bae34633" "24a51348-ec16-47b7-9b2b-a6a6dd2c901c"
+				"260b6203-dcc7-4db6-913a-bc53e36d13e7" "4765f083-13e5-4944-bb6f-85c8e5e97fdd"
+				"4abb05af-80b2-498d-b01f-b1f49e47d0c0" "50a45351-30d5-48f9-8b5a-6cd5ee0bbb79"
+				"67386fef-77c1-492a-920e-65df81f8501f" "71c43aee-2822-46d0-a4a2-32a2bfe2b3e3"
+				"96dbdd99-9cb9-4c79-a54e-a686debc3e05" "9e0d0728-e29e-42c6-a44c-e91802ed03a6"
+				"a9366c6b-becd-4d4d-af32-054eac3cb3cb" "ab144fa9-bf75-4919-87b5-916f86d679ee"
+				"ad13b675-5d50-4a8d-b05d-486d790e7d75" "cff1b9e2-023c-4855-ae76-00c87929824f"
+				"daca430d-efdc-4d7a-9aa2-bde5a9cb501e" "dc59b7d9-91f7-458a-9e5f-4b43b251071a"
+				"e79377c1-5459-4cac-9550-bbfba8717cda" "f75a580b-08ff-44f1-9935-5f81c4f29815"
+			)
+		)
+		(embedded_fonts no)
+	)
+	(gr_line
+		(start 140.02 32.0025)
+		(end 140.01 52.01)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "09d3bee4-1c28-474f-a7df-bd797e490f63")
+	)
+	(gr_line
+		(start 146.02 38.1475)
+		(end 145.02 38.1475)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "2e12680b-6b8b-4895-950a-f60933dfa69e")
+	)
+	(gr_line
+		(start 155.012501 40.145)
+		(end 145.02 40.145)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "35da0c96-7c94-4717-9818-b7a374c0f92d")
+	)
+	(gr_line
+		(start 155.01 52.01)
+		(end 155.012501 40.145)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "7ce367fd-7026-4570-9753-fdfb7e3ba05e")
+	)
+	(gr_line
+		(start 140.01 52.01)
+		(end 154.01 52.01)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "914fb881-887e-4bde-8127-a4b2f8977505")
+	)
+	(gr_line
+		(start 154.01 52.01)
+		(end 155.01 52.01)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "afffcdd3-357f-4dff-953b-f123f567ef66")
+	)
+	(gr_line
+		(start 146.02 31.9975)
+		(end 140.02 32.0025)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "cc48a305-19bf-47f2-95d6-af39066a2b3c")
+	)
+	(gr_line
+		(start 145.02 38.1475)
+		(end 145.02 40.145)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "e17b50d0-1faa-4917-8743-c616fb776b5c")
+	)
 	(embedded_fonts no)
 )

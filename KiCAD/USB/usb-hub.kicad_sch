@@ -3671,7 +3671,7 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 73.66) (xy 208.28 66.04)
+			(xy 208.28 74.93) (xy 208.28 66.04)
 		)
 		(stroke
 			(width 0)
@@ -3698,16 +3698,6 @@
 			(type default)
 		)
 		(uuid "557c4584-01aa-4714-8efc-800cd5dc88cf")
-	)
-	(wire
-		(pts
-			(xy 212.09 73.66) (xy 212.09 72.39)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "55afa173-e1fb-4965-9e4f-df66f48cb62a")
 	)
 	(wire
 		(pts
@@ -3881,7 +3871,7 @@
 	)
 	(wire
 		(pts
-			(xy 212.09 73.66) (xy 208.28 73.66)
+			(xy 212.09 74.93) (xy 208.28 74.93)
 		)
 		(stroke
 			(width 0)
@@ -3941,7 +3931,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 63.5) (xy 215.9 63.5)
+			(xy 193.04 63.5) (xy 209.55 63.5)
 		)
 		(stroke
 			(width 0)
@@ -4018,6 +4008,16 @@
 			(type default)
 		)
 		(uuid "9ee05136-8edc-4094-88b7-ebe3d0c6aeec")
+	)
+	(wire
+		(pts
+			(xy 214.63 63.5) (xy 218.44 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa751dde-7e9e-43d1-9e4a-938f34274d66")
 	)
 	(wire
 		(pts
@@ -4151,7 +4151,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 66.04) (xy 215.9 63.5)
+			(xy 218.44 66.04) (xy 218.44 63.5)
 		)
 		(stroke
 			(width 0)
@@ -5435,7 +5435,7 @@
 				)
 			)
 		)
-		(property "Value" "046809610110846+"
+		(property "Value" "046809610110846+ Female"
 			(at 142.24 121.92 0)
 			(effects
 				(font
@@ -5800,7 +5800,7 @@
 		(dnp no)
 		(uuid "4965512b-e25d-4718-8c8e-10d77b446ea5")
 		(property "Reference" "C11"
-			(at 104.1337 134.62 0)
+			(at 104.14 136.652 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5808,7 +5808,7 @@
 			)
 		)
 		(property "Value" "27 pF"
-			(at 104.1337 137.16 0)
+			(at 104.394 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6187,6 +6187,74 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small")
+		(at 212.09 63.5 270)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6a936b9c-a7e4-4072-a263-c55a24773b0a")
+		(property "Reference" "R6"
+			(at 212.09 68.58 90)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Value" "0Ω"
+			(at 212.09 66.04 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 212.09 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 212.09 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, small symbol"
+			(at 212.09 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "ac9a4160-1e72-420e-88ef-ff19481264a6")
+		)
+		(pin "1"
+			(uuid "3ec7eebf-cad3-497b-9be9-35014680842f")
+		)
+		(instances
+			(project "usb-hub"
+				(path "/215ab3b1-85fe-4e4f-901d-105bf68c1066"
+					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 99.06 48.26 0)
 		(mirror y)
@@ -6324,7 +6392,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 212.09 72.39 0)
+		(at 212.09 74.93 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6332,7 +6400,7 @@
 		(dnp no)
 		(uuid "81c11836-5eb7-465c-a6f6-8a7f81cc9b23")
 		(property "Reference" "#PWR011"
-			(at 212.09 76.2 0)
+			(at 212.09 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6341,7 +6409,7 @@
 			)
 		)
 		(property "Value" "VREG"
-			(at 212.09 68.834 0)
+			(at 212.09 71.374 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6349,7 +6417,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 212.09 72.39 0)
+			(at 212.09 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6358,7 +6426,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 212.09 72.39 0)
+			(at 212.09 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6367,7 +6435,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 212.09 72.39 0)
+			(at 212.09 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7398,7 +7466,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 215.9 66.04 0)
+		(at 218.44 66.04 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7406,7 +7474,7 @@
 		(dnp no)
 		(uuid "eaca81ed-cd3a-4908-a06e-a6b11948f94f")
 		(property "Reference" "#PWR03"
-			(at 215.9 72.39 0)
+			(at 218.44 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7415,7 +7483,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 213.868 63.754 0)
+			(at 216.408 63.754 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7424,7 +7492,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 215.9 66.04 0)
+			(at 218.44 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7433,7 +7501,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 215.9 66.04 0)
+			(at 218.44 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7442,7 +7510,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 215.9 66.04 0)
+			(at 218.44 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7764,15 +7832,15 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x10_Pin"
-			(at 35.306 31.496 0)
+		(property "Value" "046809610110846+ Male"
+			(at 38.608 31.496 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Custom:Kyocera_046809610110846+_PCB_Edge"
 			(at 27.94 45.72 0)
 			(effects
 				(font
