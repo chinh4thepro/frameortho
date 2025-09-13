@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP 046809610110846+
-D 10 Position FFC, FPC Connector Contacts, Bottom 0.020" (0.50mm) Surface Mount, Right Angle
-K
-F https://ele.kyocera.com/assets/products/connector/drawing/BJS6809004.pdf
-$ENDCMP
-#
-#End Doc Library
