@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '046809610110846_'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Kyocera AVX", "046809610110846+" (!) = "", "046809610110846", "Other", "346-046809610110846+", "https://www.mouser.co.uk/ProductDetail/Kyocera-Electronic-Components/046809610110846%2b?qs=PzGy0jfpSMtD0JCHOxaC5w%3D%3D", "", "", "10 Position FFC, FPC Connector Contacts, Bottom 0.020" (0.50mm) Surface Mount, Right Angle", "https://ele.kyocera.com/assets/products/connector/drawing/BJS6809004.pdf", "1.03 mm"
+END_PART
+
+END.
