@@ -5,3 +5,4 @@ KiCAD/*/*cache
 KiCAD/*/gerber_to_order
 KiCAD/*/plots
 KiCAD/*/Libraries/Samac
+KiCAD/*/dfm
