@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "2025-09-11_12-45-01")(type "KiCad")(uri "${KIPRJMOD}/Libraries/CY7C65634_28LTXC/KiCADv6/2025-09-11_12-45-01.kicad_sym")(options "")(descr ""))
   (lib (name "046809610110846+")(type "KiCad")(uri "${KIPRJMOD}/Libraries/046809610110846+/KiCad/046809610110846+.kicad_sym")(options "")(descr ""))
+  (lib (name "SamacSys_Parts")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Samac/SamacSys_Parts.kicad_sym")(options "")(descr ""))
 )

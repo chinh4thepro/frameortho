@@ -4428,7 +4428,7 @@
 	)
 	(global_label "USB_FNG_N"
 		(shape input)
-		(at 204.47 88.9 0)
+		(at 204.47 93.98 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4438,7 +4438,7 @@
 		)
 		(uuid "007b7ef3-4f31-4324-8034-4a7a0667b52b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 218.22 88.9 0)
+			(at 218.22 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4494,7 +4494,7 @@
 	)
 	(global_label "USB_KB_P"
 		(shape input)
-		(at 204.47 91.44 0)
+		(at 204.47 86.36 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4504,7 +4504,7 @@
 		)
 		(uuid "0afb7be4-5da7-46e4-a6ef-ef7f54c00752")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 217.0104 91.44 0)
+			(at 217.0104 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4780,7 +4780,7 @@
 	)
 	(global_label "USB_FNG_P"
 		(shape input)
-		(at 204.47 86.36 0)
+		(at 204.47 91.44 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4790,7 +4790,7 @@
 		)
 		(uuid "a0b717b8-d47e-4cfd-a2b6-b6e72997b769")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 218.1595 86.36 0)
+			(at 218.1595 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4802,7 +4802,7 @@
 	)
 	(global_label "USB_KB_N"
 		(shape input)
-		(at 204.47 93.98 0)
+		(at 204.47 88.9 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4812,7 +4812,7 @@
 		)
 		(uuid "ab8e5ffb-78fd-43a0-b2a7-16c93ae49ff6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 217.0709 93.98 0)
+			(at 217.0709 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5666,7 +5666,7 @@
 				)
 			)
 		)
-		(property "Footprint" "046809610110846"
+		(property "Footprint" "SamacSys_Parts:046809610110846"
 			(at 151.13 221.92 0)
 			(effects
 				(font
@@ -7380,7 +7380,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_FFC-FPC:Amphenol_F32Q-1A7x1-11004_1x04-1MP_P0.5mm_Horizontal"
+		(property "Footprint" "Custom:4 pad"
 			(at 27.94 77.47 0)
 			(effects
 				(font
