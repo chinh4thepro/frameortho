@@ -4,3 +4,6 @@
 [submodule "KiCAD/Keyboard/Libraries/key-switches/key-switches.pretty"]
 	path = KiCAD/Keyboard/Libraries/key-switches/key-switches.pretty
 	url = https://github.com/siderakb/key-switches.pretty
+[submodule "KiCAD/Keyboard/Libraries/zmk-config-mikefive"]
+	path = KiCAD/Keyboard/Libraries/zmk-config-mikefive
+	url = https://github.com/mikeholscher/zmk-config-mikefive/
