@@ -1,5 +1,5 @@
 [submodule "KiCAD/Keyboard/Libraries/scottokeebs"]
-	path = modules/scottokeebs
+	path = KiCAD/Keyboard/Libraries/scottokeebs
 	url = https://github.com/joe-scotto/scottokeebs/
 [submodule "KiCAD/Keyboard/Libraries/key-switches/key-switches.pretty"]
 	path = KiCAD/Keyboard/Libraries/key-switches/key-switches.pretty
