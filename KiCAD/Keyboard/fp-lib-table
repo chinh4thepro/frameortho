@@ -16,4 +16,5 @@
   (lib (name "ScottoKeebs_Scotto")(type "KiCad")(uri "${KIPRJMOD}/Libraries/scottokeebs/Extras/ScottoKicad/footprints/ScottoKeebs_Scotto.pretty")(options "")(descr ""))
   (lib (name "ScottoKeebs_Stabilizer")(type "KiCad")(uri "${KIPRJMOD}/Libraries/scottokeebs/Extras/ScottoKicad/footprints/ScottoKeebs_Stabilizer.pretty")(options "")(descr ""))
   (lib (name "footprint-and-cad")(type "KiCad")(uri "${KIPRJMOD}/Libraries/zmk-config-mikefive/files/footprint-and-cad")(options "")(descr ""))
+  (lib (name "Custom")(type "KiCad")(uri "${KIPRJMOD}/Custom.pretty")(options "")(descr ""))
 )

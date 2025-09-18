@@ -2473,7 +2473,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprint-and-cad:CPG1316S01D02_castelated_mikecinq"
+		(property "Footprint" "Custom:CPG1316S01D02_castelated_mikecinq"
 			(at 91.44 97.79 0)
 			(effects
 				(font
@@ -2543,7 +2543,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprint-and-cad:CPG1316S01D02_castelated_mikecinq"
+		(property "Footprint" "Custom:CPG1316S01D02_castelated_mikecinq"
 			(at 205.74 116.84 0)
 			(effects
 				(font
@@ -2614,7 +2614,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprint-and-cad:CPG1316S01D02_castelated_mikecinq"
+		(property "Footprint" "Custom:CPG1316S01D02_castelated_mikecinq"
 			(at 193.04 97.79 0)
 			(effects
 				(font
@@ -2773,7 +2773,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprint-and-cad:CPG1316S01D02_castelated_mikecinq"
+		(property "Footprint" "Custom:CPG1316S01D02_castelated_mikecinq"
 			(at 116.84 116.84 0)
 			(effects
 				(font
@@ -2843,7 +2843,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprint-and-cad:CPG1316S01D02_castelated_mikecinq"
+		(property "Footprint" "Custom:CPG1316S01D02_castelated_mikecinq"
 			(at 205.74 78.74 0)
 			(effects
 				(font
@@ -2914,7 +2914,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprint-and-cad:CPG1316S01D02_castelated_mikecinq"
+		(property "Footprint" "Custom:CPG1316S01D02_castelated_mikecinq"
 			(at 180.34 135.89 0)
 			(effects
 				(font
@@ -2985,7 +2985,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprint-and-cad:CPG1316S01D02_castelated_mikecinq"
+		(property "Footprint" "Custom:CPG1316S01D02_castelated_mikecinq"
 			(at 104.14 116.84 0)
 			(effects
 				(font
@@ -3320,7 +3320,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprint-and-cad:CPG1316S01D02_castelated_mikecinq"
+		(property "Footprint" "Custom:CPG1316S01D02_castelated_mikecinq"
 			(at 91.44 116.84 0)
 			(effects
 				(font
@@ -3567,7 +3567,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprint-and-cad:CPG1316S01D02_castelated_mikecinq"
+		(property "Footprint" "Custom:CPG1316S01D02_castelated_mikecinq"
 			(at 91.44 78.74 0)
 			(effects
 				(font
@@ -3814,7 +3814,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprint-and-cad:CPG1316S01D02_castelated_mikecinq"
+		(property "Footprint" "Custom:CPG1316S01D02_castelated_mikecinq"
 			(at 129.54 78.74 0)
 			(effects
 				(font
@@ -3884,7 +3884,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprint-and-cad:CPG1316S01D02_castelated_mikecinq"
+		(property "Footprint" "Custom:CPG1316S01D02_castelated_mikecinq"
 			(at 180.34 78.74 0)
 			(effects
 				(font
@@ -4131,7 +4131,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprint-and-cad:CPG1316S01D02_castelated_mikecinq"
+		(property "Footprint" "Custom:CPG1316S01D02_castelated_mikecinq"
 			(at 154.94 135.89 0)
 			(effects
 				(font
@@ -4290,7 +4290,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprint-and-cad:CPG1316S01D02_castelated_mikecinq"
+		(property "Footprint" "Custom:CPG1316S01D02_castelated_mikecinq"
 			(at 180.34 97.79 0)
 			(effects
 				(font
@@ -4361,7 +4361,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprint-and-cad:CPG1316S01D02_castelated_mikecinq"
+		(property "Footprint" "Custom:CPG1316S01D02_castelated_mikecinq"
 			(at 167.64 97.79 0)
 			(effects
 				(font
@@ -4431,7 +4431,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprint-and-cad:CPG1316S01D02_castelated_mikecinq"
+		(property "Footprint" "Custom:CPG1316S01D02_castelated_mikecinq"
 			(at 193.04 116.84 0)
 			(effects
 				(font
@@ -4502,7 +4502,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprint-and-cad:CPG1316S01D02_castelated_mikecinq"
+		(property "Footprint" "Custom:CPG1316S01D02_castelated_mikecinq"
 			(at 104.14 135.89 0)
 			(effects
 				(font
@@ -4836,7 +4836,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprint-and-cad:CPG1316S01D02_castelated_mikecinq"
+		(property "Footprint" "Custom:CPG1316S01D02_castelated_mikecinq"
 			(at 154.94 78.74 0)
 			(effects
 				(font
@@ -5171,7 +5171,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprint-and-cad:CPG1316S01D02_castelated_mikecinq"
+		(property "Footprint" "Custom:CPG1316S01D02_castelated_mikecinq"
 			(at 116.84 78.74 0)
 			(effects
 				(font
@@ -5242,7 +5242,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprint-and-cad:CPG1316S01D02_castelated_mikecinq"
+		(property "Footprint" "Custom:CPG1316S01D02_castelated_mikecinq"
 			(at 78.74 116.84 0)
 			(effects
 				(font
@@ -5313,7 +5313,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprint-and-cad:CPG1316S01D02_castelated_mikecinq"
+		(property "Footprint" "Custom:CPG1316S01D02_castelated_mikecinq"
 			(at 78.74 97.79 0)
 			(effects
 				(font
@@ -5647,7 +5647,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprint-and-cad:CPG1316S01D02_castelated_mikecinq"
+		(property "Footprint" "Custom:CPG1316S01D02_castelated_mikecinq"
 			(at 193.04 78.74 0)
 			(effects
 				(font
@@ -5718,7 +5718,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprint-and-cad:CPG1316S01D02_castelated_mikecinq"
+		(property "Footprint" "Custom:CPG1316S01D02_castelated_mikecinq"
 			(at 116.84 135.89 0)
 			(effects
 				(font
@@ -5789,7 +5789,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprint-and-cad:CPG1316S01D02_castelated_mikecinq"
+		(property "Footprint" "Custom:CPG1316S01D02_castelated_mikecinq"
 			(at 167.64 135.89 0)
 			(effects
 				(font
@@ -5948,7 +5948,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprint-and-cad:CPG1316S01D02_castelated_mikecinq"
+		(property "Footprint" "Custom:CPG1316S01D02_castelated_mikecinq"
 			(at 116.84 97.79 0)
 			(effects
 				(font
@@ -6195,7 +6195,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprint-and-cad:CPG1316S01D02_castelated_mikecinq"
+		(property "Footprint" "Custom:CPG1316S01D02_castelated_mikecinq"
 			(at 154.94 97.79 0)
 			(effects
 				(font
@@ -6683,7 +6683,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprint-and-cad:CPG1316S01D02_castelated_mikecinq"
+		(property "Footprint" "Custom:CPG1316S01D02_castelated_mikecinq"
 			(at 180.34 116.84 0)
 			(effects
 				(font
@@ -6753,7 +6753,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprint-and-cad:CPG1316S01D02_castelated_mikecinq"
+		(property "Footprint" "Custom:CPG1316S01D02_castelated_mikecinq"
 			(at 154.94 116.84 0)
 			(effects
 				(font
@@ -6823,7 +6823,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprint-and-cad:CPG1316S01D02_castelated_mikecinq"
+		(property "Footprint" "Custom:CPG1316S01D02_castelated_mikecinq"
 			(at 167.64 116.84 0)
 			(effects
 				(font
@@ -6982,7 +6982,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprint-and-cad:CPG1316S01D02_castelated_mikecinq"
+		(property "Footprint" "Custom:CPG1316S01D02_castelated_mikecinq"
 			(at 205.74 97.79 0)
 			(effects
 				(font
@@ -7317,7 +7317,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprint-and-cad:CPG1316S01D02_castelated_mikecinq"
+		(property "Footprint" "Custom:CPG1316S01D02_castelated_mikecinq"
 			(at 129.54 97.79 0)
 			(effects
 				(font
@@ -7563,7 +7563,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprint-and-cad:CPG1316S01D02_castelated_mikecinq"
+		(property "Footprint" "Custom:CPG1316S01D02_castelated_mikecinq"
 			(at 78.74 78.74 0)
 			(effects
 				(font
@@ -7634,7 +7634,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprint-and-cad:CPG1316S01D02_castelated_mikecinq"
+		(property "Footprint" "Custom:CPG1316S01D02_castelated_mikecinq"
 			(at 129.54 116.84 0)
 			(effects
 				(font
@@ -7704,7 +7704,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprint-and-cad:CPG1316S01D02_castelated_mikecinq"
+		(property "Footprint" "Custom:CPG1316S01D02_castelated_mikecinq"
 			(at 167.64 78.74 0)
 			(effects
 				(font
@@ -7863,7 +7863,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprint-and-cad:CPG1316S01D02_castelated_mikecinq"
+		(property "Footprint" "Custom:CPG1316S01D02_castelated_mikecinq"
 			(at 129.54 135.89 0)
 			(effects
 				(font
@@ -8022,7 +8022,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprint-and-cad:CPG1316S01D02_castelated_mikecinq"
+		(property "Footprint" "Custom:CPG1316S01D02_castelated_mikecinq"
 			(at 104.14 97.79 0)
 			(effects
 				(font
@@ -8093,7 +8093,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprint-and-cad:CPG1316S01D02_castelated_mikecinq"
+		(property "Footprint" "Custom:CPG1316S01D02_castelated_mikecinq"
 			(at 104.14 78.74 0)
 			(effects
 				(font
