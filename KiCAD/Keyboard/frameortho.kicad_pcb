@@ -412,7 +412,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "5152d79f-1dd8-42b8-8cdf-021c04aec9d5")
+			(uuid "b652e27c-174c-4ad7-b012-39f79aea3efc")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 342)
@@ -423,7 +423,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "5152d79f-1dd8-42b8-8cdf-021c04aec9d5")
+			(uuid "24dcb9e0-f179-4065-9a6d-71767070eb45")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 342)
@@ -434,7 +434,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "5152d79f-1dd8-42b8-8cdf-021c04aec9d5")
+			(uuid "f15d1e1c-6b2e-415d-8e1e-184b691050af")
 		)
 		(embedded_fonts no)
 		(model "${MODELS}/PG1316S--装配体.STEP"
@@ -707,7 +707,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "62e318e5-9d57-4a64-a256-ec45a0396918")
+			(uuid "34e665af-67ed-4817-a075-c19a20e76129")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 342)
@@ -718,7 +718,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "62e318e5-9d57-4a64-a256-ec45a0396918")
+			(uuid "387bd766-3818-40a4-b132-5293d7901888")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 342)
@@ -729,7 +729,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "62e318e5-9d57-4a64-a256-ec45a0396918")
+			(uuid "1f409ffa-2ef5-4e4a-bab7-68ea5f633cb9")
 		)
 		(embedded_fonts no)
 		(model "${MODELS}/PG1316S--装配体.STEP"
@@ -2552,7 +2552,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "093a3029-5578-480f-aa75-b02602ebcc19")
+			(uuid "e9693fc4-ec1a-4d86-a1e0-edf96812878e")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 342)
@@ -2563,7 +2563,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "093a3029-5578-480f-aa75-b02602ebcc19")
+			(uuid "cf06125c-2b2f-4e9c-81c3-28a704c19f36")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 342)
@@ -2574,7 +2574,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "093a3029-5578-480f-aa75-b02602ebcc19")
+			(uuid "5f3c83f6-d225-4ff3-819d-4efaf9664f40")
 		)
 		(embedded_fonts no)
 		(model "${MODELS}/PG1316S--装配体.STEP"
@@ -2941,7 +2941,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "16973a06-1380-491b-a9fc-faded735c1f0")
+			(uuid "1f794b82-80a0-4fba-858e-62859abfb21b")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 342)
@@ -2952,7 +2952,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "16973a06-1380-491b-a9fc-faded735c1f0")
+			(uuid "faa61305-115c-4bb7-9b99-b6292f7a3ff2")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 342)
@@ -2963,7 +2963,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "16973a06-1380-491b-a9fc-faded735c1f0")
+			(uuid "11b26fa1-7518-484d-b87e-1c1334334110")
 		)
 		(embedded_fonts no)
 		(model "${MODELS}/PG1316S--装配体.STEP"
@@ -3766,7 +3766,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "ba887dd5-d3e7-4ed8-8f50-edb0d324e107")
+			(uuid "1b58cef9-39b6-4f21-8ea6-d048133e13d9")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 342)
@@ -3777,7 +3777,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "ba887dd5-d3e7-4ed8-8f50-edb0d324e107")
+			(uuid "d27306d0-ef2b-4602-861d-017cd76c8e37")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 342)
@@ -3788,7 +3788,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "ba887dd5-d3e7-4ed8-8f50-edb0d324e107")
+			(uuid "e5798b4b-f6e2-40a2-a164-024f345ada8a")
 		)
 		(embedded_fonts no)
 		(model "${MODELS}/PG1316S--装配体.STEP"
@@ -5135,7 +5135,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "f94ffc5d-7e78-4f34-8224-2c47833767f9")
+			(uuid "30c5c91d-acc7-4161-94d7-d312867ce43f")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 18)
@@ -5146,7 +5146,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "f94ffc5d-7e78-4f34-8224-2c47833767f9")
+			(uuid "417e3abd-1af4-4d64-b2b5-0e7d82d0525a")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 18)
@@ -5157,7 +5157,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "f94ffc5d-7e78-4f34-8224-2c47833767f9")
+			(uuid "e3489135-21b7-4541-bb4e-6af79236aba8")
 		)
 		(embedded_fonts no)
 		(model "${MODELS}/PG1316S--装配体.STEP"
@@ -6336,7 +6336,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "7ea137d9-b654-4d88-8464-040423fd54ea")
+			(uuid "17297aa2-b377-4678-93dd-1b544e50cbf5")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 347)
@@ -6347,7 +6347,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "7ea137d9-b654-4d88-8464-040423fd54ea")
+			(uuid "2fbb6bfc-8461-44d2-9e78-1b01bf77154e")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 347)
@@ -6358,7 +6358,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "7ea137d9-b654-4d88-8464-040423fd54ea")
+			(uuid "74d99508-9526-4f73-a856-636e601a84eb")
 		)
 		(embedded_fonts no)
 		(model "${MODELS}/PG1316S--装配体.STEP"
@@ -6631,7 +6631,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "286898ac-7004-4455-808c-5b54600a88ff")
+			(uuid "002d9bf3-a4b1-475d-b07c-0f69d4e54953")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 18)
@@ -6642,7 +6642,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "286898ac-7004-4455-808c-5b54600a88ff")
+			(uuid "77ec09af-6a4c-4240-bf3f-5f794c4a43b0")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 18)
@@ -6653,7 +6653,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "286898ac-7004-4455-808c-5b54600a88ff")
+			(uuid "c8c320d3-6b63-478b-8aae-1735c18d3e4f")
 		)
 		(embedded_fonts no)
 		(model "${MODELS}/PG1316S--装配体.STEP"
@@ -7116,7 +7116,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "aa5a7853-7fd1-4a02-b89b-c3e667fc6f43")
+			(uuid "a75d34cd-1431-4db5-8d31-c5bcff35f6ca")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 18)
@@ -7127,7 +7127,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "aa5a7853-7fd1-4a02-b89b-c3e667fc6f43")
+			(uuid "7d0fcc7b-2c8d-458f-9c6c-7d7786edf34e")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 18)
@@ -7138,7 +7138,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "aa5a7853-7fd1-4a02-b89b-c3e667fc6f43")
+			(uuid "4aed5c6f-55c1-4a10-b32f-a70b5841d7e8")
 		)
 		(embedded_fonts no)
 		(model "${MODELS}/PG1316S--装配体.STEP"
@@ -7506,7 +7506,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "f010b020-1570-48bf-8bb9-1d7f3a28fcee")
+			(uuid "f561c421-f7dc-4cf5-a38c-259c25f08a2f")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 28)
@@ -7517,7 +7517,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "f010b020-1570-48bf-8bb9-1d7f3a28fcee")
+			(uuid "fb13d0d4-d541-45b2-b76c-2e4fe4a0092c")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 28)
@@ -7528,7 +7528,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "f010b020-1570-48bf-8bb9-1d7f3a28fcee")
+			(uuid "4dbc0ffe-0147-4809-ae70-015326062f27")
 		)
 		(embedded_fonts no)
 		(model "${MODELS}/PG1316S--装配体.STEP"
@@ -9161,7 +9161,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "9875d077-a061-4188-b4ec-a0c3fcd9e2c2")
+			(uuid "f9b76f03-b83e-4e0a-9077-cc0f963bb04f")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 18)
@@ -9172,7 +9172,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "9875d077-a061-4188-b4ec-a0c3fcd9e2c2")
+			(uuid "0636b4fc-4ad8-45a5-9488-43d0f5a1eb77")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 18)
@@ -9183,7 +9183,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "9875d077-a061-4188-b4ec-a0c3fcd9e2c2")
+			(uuid "7927e100-1e2c-4f20-8bf7-3342405c1b77")
 		)
 		(embedded_fonts no)
 		(model "${MODELS}/PG1316S--装配体.STEP"
@@ -9550,7 +9550,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "164473a1-3a7a-4112-baa2-cb8ede04ce4b")
+			(uuid "654693af-a116-479c-a654-5e1e07ee6c59")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 342)
@@ -9561,7 +9561,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "164473a1-3a7a-4112-baa2-cb8ede04ce4b")
+			(uuid "69e220aa-f0d1-4182-ac45-ebda35e80166")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 342)
@@ -9572,7 +9572,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "164473a1-3a7a-4112-baa2-cb8ede04ce4b")
+			(uuid "7297602b-3745-423f-8c66-567626d07b35")
 		)
 		(embedded_fonts no)
 		(model "${MODELS}/PG1316S--装配体.STEP"
@@ -9845,7 +9845,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "d518ef39-3b8b-4174-81f7-a9163e506685")
+			(uuid "1affd336-6a32-4336-beed-7d5d158d75b5")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 342)
@@ -9856,7 +9856,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "d518ef39-3b8b-4174-81f7-a9163e506685")
+			(uuid "ad0aa4c8-89e9-4323-9a7f-c2bac90b01ef")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 342)
@@ -9867,7 +9867,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "d518ef39-3b8b-4174-81f7-a9163e506685")
+			(uuid "e557d548-eed6-4930-a88c-03c51d45f5e1")
 		)
 		(embedded_fonts no)
 		(model "${MODELS}/PG1316S--装配体.STEP"
@@ -10140,7 +10140,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "771ab7df-5b41-4e49-9a15-61919df2a545")
+			(uuid "fb64fbf9-6d69-4ea9-a142-3376ed961cbb")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 43)
@@ -10151,7 +10151,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "771ab7df-5b41-4e49-9a15-61919df2a545")
+			(uuid "d0d9939a-c685-45d0-8cc1-ce3971c5776e")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 43)
@@ -10162,7 +10162,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "771ab7df-5b41-4e49-9a15-61919df2a545")
+			(uuid "9e47f983-d77b-4e4e-b81a-689781e2c9d0")
 		)
 		(embedded_fonts no)
 		(model "${MODELS}/PG1316S--装配体.STEP"
@@ -10435,7 +10435,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "00cdcb02-3361-4465-a1ef-b79ddaeab460")
+			(uuid "5a912854-afa1-46e7-9600-72ec6604a16a")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 18)
@@ -10446,7 +10446,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "00cdcb02-3361-4465-a1ef-b79ddaeab460")
+			(uuid "4050630d-c45e-4ca3-940d-1cb236fd2ca7")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 18)
@@ -10457,7 +10457,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "00cdcb02-3361-4465-a1ef-b79ddaeab460")
+			(uuid "ff5ab962-c012-43d4-b44b-5e82c3b72410")
 		)
 		(embedded_fonts no)
 		(model "${MODELS}/PG1316S--装配体.STEP"
@@ -11644,7 +11644,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "7c88ae4a-caf4-47e3-8f20-ccc674cc628f")
+			(uuid "ee3453c5-39d3-4e39-926d-c6a0f9fa1066")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 18)
@@ -11655,7 +11655,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "7c88ae4a-caf4-47e3-8f20-ccc674cc628f")
+			(uuid "d21463be-b566-4245-9866-a0bb8183acba")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 18)
@@ -11666,7 +11666,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "7c88ae4a-caf4-47e3-8f20-ccc674cc628f")
+			(uuid "939d9e83-2c3e-4baa-a5d0-cda8193c6f2e")
 		)
 		(embedded_fonts no)
 		(model "${MODELS}/PG1316S--装配体.STEP"
@@ -11939,7 +11939,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "4f7fec3e-51cf-4815-9f6f-86875ddb5989")
+			(uuid "6ef257ba-37b7-4d46-9ba7-2d0a701c6ee5")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 342)
@@ -11950,7 +11950,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "4f7fec3e-51cf-4815-9f6f-86875ddb5989")
+			(uuid "3674a052-5277-4ee2-9136-93f1d1dc81e7")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 342)
@@ -11961,7 +11961,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "4f7fec3e-51cf-4815-9f6f-86875ddb5989")
+			(uuid "60134af1-de66-4e3d-8843-d72616bf44fc")
 		)
 		(embedded_fonts no)
 		(model "${MODELS}/PG1316S--装配体.STEP"
@@ -12574,7 +12574,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "df170cb0-766d-47d1-88a9-059786db51e9")
+			(uuid "f6684d9c-8a27-43fc-a9b6-a72bf92099ef")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 18)
@@ -12585,7 +12585,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "df170cb0-766d-47d1-88a9-059786db51e9")
+			(uuid "0b1320b8-bf1a-403b-9822-9f254235bae2")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 18)
@@ -12596,7 +12596,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "df170cb0-766d-47d1-88a9-059786db51e9")
+			(uuid "25130c16-17f5-4612-8a28-beb7d93c37dc")
 		)
 		(embedded_fonts no)
 		(model "${MODELS}/PG1316S--装配体.STEP"
@@ -13209,7 +13209,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "bc9fa849-72f1-4538-b4b0-90bf067d13be")
+			(uuid "3c7dfe9b-c0a1-4e0e-a793-87378f7c5679")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 342)
@@ -13220,7 +13220,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "bc9fa849-72f1-4538-b4b0-90bf067d13be")
+			(uuid "e36fdc60-a1a0-4212-97da-3f7f245f2cff")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 342)
@@ -13231,7 +13231,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "bc9fa849-72f1-4538-b4b0-90bf067d13be")
+			(uuid "d8a74025-bed2-4385-aea0-c1acecc9f06e")
 		)
 		(embedded_fonts no)
 		(model "${MODELS}/PG1316S--装配体.STEP"
@@ -16163,7 +16163,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "d2e20433-dbd3-4b4e-8c37-462fb2ae3a9d")
+			(uuid "2fd9f12d-f138-4994-8b8a-f57d865d232e")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 332)
@@ -16174,7 +16174,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "d2e20433-dbd3-4b4e-8c37-462fb2ae3a9d")
+			(uuid "17a6e35e-38ba-4877-a185-dc00717712bb")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 332)
@@ -16185,7 +16185,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "d2e20433-dbd3-4b4e-8c37-462fb2ae3a9d")
+			(uuid "089cfa03-ceaf-4fb5-a0ec-997054926a06")
 		)
 		(embedded_fonts no)
 		(model "${MODELS}/PG1316S--装配体.STEP"
@@ -17518,7 +17518,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "171e7ceb-7471-435f-a286-a5156decc262")
+			(uuid "6b64dd71-33b1-444c-8543-084823c49fe8")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 18)
@@ -17529,7 +17529,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "171e7ceb-7471-435f-a286-a5156decc262")
+			(uuid "a1ff9087-e174-4423-ba14-14b5931034ff")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 18)
@@ -17540,7 +17540,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "171e7ceb-7471-435f-a286-a5156decc262")
+			(uuid "6ae184a8-609c-4586-8c7f-1ac39dfc7c38")
 		)
 		(embedded_fonts no)
 		(model "${MODELS}/PG1316S--装配体.STEP"
@@ -18097,7 +18097,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "797e9366-0c1d-4135-9bc9-76582824ae33")
+			(uuid "4d98dea6-4deb-4f3e-a896-b6983777fafc")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 342)
@@ -18108,7 +18108,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "797e9366-0c1d-4135-9bc9-76582824ae33")
+			(uuid "8b8a4303-ac3f-4b0e-a36a-83fb57ef3cf2")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 342)
@@ -18119,7 +18119,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "797e9366-0c1d-4135-9bc9-76582824ae33")
+			(uuid "9912269b-c4dc-4073-bc21-8f24dc543a7a")
 		)
 		(embedded_fonts no)
 		(model "${MODELS}/PG1316S--装配体.STEP"
@@ -21080,7 +21080,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "ef3c2b07-f37b-4645-9bc0-7d6ec5cd9f83")
+			(uuid "5c224e2c-31dd-4164-abb4-2e1abf37d4b9")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 18)
@@ -21091,7 +21091,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "ef3c2b07-f37b-4645-9bc0-7d6ec5cd9f83")
+			(uuid "2a9be2c8-c648-4e72-98fb-60fe8d066c2b")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 18)
@@ -21102,7 +21102,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "ef3c2b07-f37b-4645-9bc0-7d6ec5cd9f83")
+			(uuid "833e5be9-8f09-44c4-b79c-a4d812303b16")
 		)
 		(embedded_fonts no)
 		(model "${MODELS}/PG1316S--装配体.STEP"
@@ -21905,7 +21905,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "51f070a4-132f-4998-bfad-2c10d8a13841")
+			(uuid "b6198187-d372-448c-9269-c096c6d55163")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 342)
@@ -21916,7 +21916,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "51f070a4-132f-4998-bfad-2c10d8a13841")
+			(uuid "87672aa5-ad67-4473-b6ce-b0e82c9a48ea")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 342)
@@ -21927,7 +21927,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "51f070a4-132f-4998-bfad-2c10d8a13841")
+			(uuid "41a803a8-e1ce-4c8b-b532-b57875a9bcb4")
 		)
 		(embedded_fonts no)
 		(model "${MODELS}/PG1316S--装配体.STEP"
@@ -22200,7 +22200,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "99c04154-4679-4447-bc60-96a53926afc8")
+			(uuid "d7b29943-34eb-42ad-9e37-75b45bc84929")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 18)
@@ -22211,7 +22211,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "99c04154-4679-4447-bc60-96a53926afc8")
+			(uuid "e9bf22f0-e5b8-4721-8d89-a59216155107")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 18)
@@ -22222,7 +22222,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "99c04154-4679-4447-bc60-96a53926afc8")
+			(uuid "f98861ce-227a-4f07-a89e-7528c03c4f98")
 		)
 		(embedded_fonts no)
 		(model "${MODELS}/PG1316S--装配体.STEP"
@@ -22929,7 +22929,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "9c450aea-3a54-42d2-b75c-b466bdd79117")
+			(uuid "4ea1ecab-5124-4805-a641-158beef75e44")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 18)
@@ -22940,7 +22940,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "9c450aea-3a54-42d2-b75c-b466bdd79117")
+			(uuid "0782ed6f-e2a5-40a2-88b0-94a4834a8b6c")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 18)
@@ -22951,7 +22951,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "9c450aea-3a54-42d2-b75c-b466bdd79117")
+			(uuid "c8ae0177-a299-4b1e-ac35-02708d5b0e44")
 		)
 		(embedded_fonts no)
 		(model "${MODELS}/PG1316S--装配体.STEP"
@@ -24234,7 +24234,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "061584d6-1d20-4e4c-9b6e-fd962b5cfca2")
+			(uuid "bd6ce8f7-4fc2-4fe6-b91c-e806286bdeec")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 18)
@@ -24245,7 +24245,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "061584d6-1d20-4e4c-9b6e-fd962b5cfca2")
+			(uuid "00c014f4-ac30-4a35-87ee-801bd524a57c")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 18)
@@ -24256,7 +24256,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "061584d6-1d20-4e4c-9b6e-fd962b5cfca2")
+			(uuid "ec0b4806-5d23-4273-9c39-7f5061d339ac")
 		)
 		(embedded_fonts no)
 		(model "${MODELS}/PG1316S--装配体.STEP"
@@ -25003,7 +25003,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "f974f404-6fcb-427b-b34b-03ae9ae6444a")
+			(uuid "fa902ebf-4c01-4241-9d5f-42a8d5d03b26")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 18)
@@ -25014,7 +25014,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "f974f404-6fcb-427b-b34b-03ae9ae6444a")
+			(uuid "b465a357-1486-4a52-bc32-82e974c27459")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 18)
@@ -25025,7 +25025,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "f974f404-6fcb-427b-b34b-03ae9ae6444a")
+			(uuid "c203a638-3abc-410f-a5cb-a14d0d90587c")
 		)
 		(embedded_fonts no)
 		(model "${MODELS}/PG1316S--装配体.STEP"
@@ -25298,7 +25298,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "77f9395e-b815-478a-a7b8-c4deb9499dd4")
+			(uuid "58e06f8c-f89c-4203-8ddc-b24b15176b09")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 342)
@@ -25309,7 +25309,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "77f9395e-b815-478a-a7b8-c4deb9499dd4")
+			(uuid "dde255d8-4721-4c00-8d77-f9b91a6ef65b")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 342)
@@ -25320,7 +25320,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "77f9395e-b815-478a-a7b8-c4deb9499dd4")
+			(uuid "cb5bca75-b14e-4e69-8761-50ea1ca31f56")
 		)
 		(embedded_fonts no)
 		(model "${MODELS}/PG1316S--装配体.STEP"
@@ -26067,7 +26067,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "f578ea2a-6ff1-433e-8581-6487bcdab360")
+			(uuid "d0afe74b-066b-4c98-bede-f5ba623d3d59")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 342)
@@ -26078,7 +26078,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "f578ea2a-6ff1-433e-8581-6487bcdab360")
+			(uuid "20d94283-c519-473c-82b7-cf081cce7e3c")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 342)
@@ -26089,7 +26089,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "f578ea2a-6ff1-433e-8581-6487bcdab360")
+			(uuid "642452e3-b9ab-4685-952f-e819b2077fc5")
 		)
 		(embedded_fonts no)
 		(model "${MODELS}/PG1316S--装配体.STEP"
@@ -26702,7 +26702,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "84406a33-2e7a-4036-9877-9899c014ec4b")
+			(uuid "461c3a5f-28c6-44e2-b553-1fa70c4c8bef")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 317)
@@ -26713,7 +26713,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "84406a33-2e7a-4036-9877-9899c014ec4b")
+			(uuid "b2cd9c3c-74cd-42bf-aaf6-310a25d3a183")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 317)
@@ -26724,7 +26724,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "84406a33-2e7a-4036-9877-9899c014ec4b")
+			(uuid "fd246145-8e3e-4be0-a070-1a356a8627a9")
 		)
 		(embedded_fonts no)
 		(model "${MODELS}/PG1316S--装配体.STEP"
@@ -27713,7 +27713,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "c70cddf9-0503-47b1-a6c9-3646e78b112f")
+			(uuid "d03753b3-fdcf-4f51-b6cf-53f8278535ab")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 18)
@@ -27724,7 +27724,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "c70cddf9-0503-47b1-a6c9-3646e78b112f")
+			(uuid "914a473a-4959-4b38-9fba-a85cdfd663b7")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 18)
@@ -27735,7 +27735,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "c70cddf9-0503-47b1-a6c9-3646e78b112f")
+			(uuid "1fc4caf1-de28-49ca-99af-a09202d7f194")
 		)
 		(embedded_fonts no)
 		(model "${MODELS}/PG1316S--装配体.STEP"
@@ -28008,7 +28008,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "aee91319-c991-4983-8c30-61739c6e53d3")
+			(uuid "007e4bb1-57a3-4f9e-8dec-28dc5f0d5e7a")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 342)
@@ -28019,7 +28019,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "aee91319-c991-4983-8c30-61739c6e53d3")
+			(uuid "d464a898-59d2-4dbb-9184-b3b7cda89aef")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 342)
@@ -28030,7 +28030,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "aee91319-c991-4983-8c30-61739c6e53d3")
+			(uuid "7375ab89-df0d-4ca0-a086-aa2480784769")
 		)
 		(embedded_fonts no)
 		(model "${MODELS}/PG1316S--装配体.STEP"
@@ -28983,7 +28983,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "eab8ddda-2d07-4536-a95f-9ceeaf4eb940")
+			(uuid "870bf5af-3fcd-496a-8111-a205b4fbc712")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 342)
@@ -28994,7 +28994,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "eab8ddda-2d07-4536-a95f-9ceeaf4eb940")
+			(uuid "410125a4-5bcd-4f4a-b386-8255e5ecf3b5")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 342)
@@ -29005,7 +29005,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "eab8ddda-2d07-4536-a95f-9ceeaf4eb940")
+			(uuid "f5cb080a-1745-43ad-a73e-8df65e1e4377")
 		)
 		(embedded_fonts no)
 		(model "${MODELS}/PG1316S--装配体.STEP"
@@ -29624,7 +29624,7 @@
 		(attr smd)
 		(fp_poly
 			(pts
-				(xy 3.8 -3.5) (xy 3.8 -1.65) (xy 3.3 -1.15) (xy -2.2 -1.15) (xy -2.2 -3.9) (xy 2.2 -3.9) (xy 2.2 -3.500001)
+				(xy 3.8 -3.5) (xy 3.8 -1.65) (xy 3.3 -1.15) (xy -2.2 -1.15) (xy -2.2 -3.9) (xy 2.2 -3.9) (xy 2.2 -3.500002)
 			)
 			(stroke
 				(width 0.1)
@@ -29808,7 +29808,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "fba93182-e3d7-4f96-a48a-eb82719380db")
+			(uuid "bb2201a1-df33-486f-83e6-8df19178c8f6")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 13)
@@ -29819,7 +29819,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "fba93182-e3d7-4f96-a48a-eb82719380db")
+			(uuid "b0a23a5d-c9f2-4c28-80fc-a0561f93acf3")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 13)
@@ -29830,7 +29830,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "fba93182-e3d7-4f96-a48a-eb82719380db")
+			(uuid "ffbf556d-f864-4500-a358-e1a142f642e6")
 		)
 		(embedded_fonts no)
 		(model "${MODELS}/PG1316S--装配体.STEP"
@@ -31653,7 +31653,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "d1dc8feb-a33b-4a51-b7fa-aa5ec99e5e31")
+			(uuid "f4387c91-b5d0-47c7-95cb-7a80927e7e30")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 -6 18)
@@ -31664,7 +31664,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "d1dc8feb-a33b-4a51-b7fa-aa5ec99e5e31")
+			(uuid "22f3dd2e-6fc4-4e53-bf5d-bb9ae2f62e1f")
 		)
 		(pad "3" smd roundrect
 			(at 6.35 6 18)
@@ -31675,7 +31675,7 @@
 			(pinfunction "3")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "d1dc8feb-a33b-4a51-b7fa-aa5ec99e5e31")
+			(uuid "934e3e66-afb0-4784-b21f-bffa40c3dbef")
 		)
 		(embedded_fonts no)
 		(model "${MODELS}/PG1316S--装配体.STEP"
@@ -43555,20 +43555,20 @@
 		(uuid "c0bf917d-7f2b-4e72-ab88-76e4251744b5")
 	)
 	(segment
-		(start 221.2086 116.3574)
-		(end 220.9804 116.3574)
+		(start 221.539528 115.798272)
+		(end 221.539528 115.3826)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 81)
-		(uuid "0feefb25-9840-4fce-b3fa-461793df5c65")
+		(uuid "079f0f33-9549-4712-97e6-a1720feb2cb8")
 	)
 	(segment
-		(start 221.2086 115.713528)
-		(end 221.2086 116.3574)
+		(start 220.5578 116.78)
+		(end 221.539528 115.798272)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 81)
-		(uuid "428eeea9-9ddc-4f8c-abf9-8d37f775fdb5")
+		(uuid "19559241-861b-45e7-8026-02f23cdb24dd")
 	)
 	(segment
 		(start 223.43 118.591865)
@@ -43579,28 +43579,12 @@
 		(uuid "96962936-32fd-4a7f-8316-56f25b9a2583")
 	)
 	(segment
-		(start 220.9804 116.3574)
-		(end 220.5578 116.78)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 81)
-		(uuid "ec5e454f-7249-4d54-af5b-99d415f57baf")
-	)
-	(segment
 		(start 223.405335 118.5672)
 		(end 223.43 118.591865)
 		(width 0.2)
 		(layer "B.Cu")
 		(net 81)
 		(uuid "f8e561bd-9389-47dc-88f5-41a5ce5dd3bf")
-	)
-	(segment
-		(start 221.539528 115.3826)
-		(end 221.2086 115.713528)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 81)
-		(uuid "fa19794e-9398-4628-8729-efaf0cf3dae3")
 	)
 	(segment
 		(start 220.54 130.6)
