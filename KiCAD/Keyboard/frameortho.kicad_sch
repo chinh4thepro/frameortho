@@ -4243,7 +4243,7 @@
 	)
 	(global_label "COL_5"
 		(shape input)
-		(at 210.82 161.29 0)
+		(at 210.82 173.99 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4253,7 +4253,7 @@
 		)
 		(uuid "04c13d50-4fce-49c2-83c9-b9b2b1526662")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 219.6109 161.29 0)
+			(at 219.6109 173.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4285,9 +4285,9 @@
 			)
 		)
 	)
-	(global_label "GPIO24"
+	(global_label "GPIO19"
 		(shape input)
-		(at 210.82 171.45 0)
+		(at 210.82 158.75 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4297,7 +4297,7 @@
 		)
 		(uuid "0cd64957-e166-4b44-a1bd-99364b605ba2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 220.6995 171.45 0)
+			(at 220.6995 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4505,9 +4505,9 @@
 			)
 		)
 	)
-	(global_label "GPIO23"
+	(global_label "GPIO18"
 		(shape input)
-		(at 210.82 168.91 0)
+		(at 210.82 156.21 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4517,7 +4517,7 @@
 		)
 		(uuid "3d75a61d-08a7-4d61-9dbc-ca984ae5b66c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 220.6995 168.91 0)
+			(at 220.6995 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4683,7 +4683,7 @@
 	)
 	(global_label "COL_9"
 		(shape input)
-		(at 210.82 151.13 0)
+		(at 210.82 163.83 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4693,7 +4693,7 @@
 		)
 		(uuid "614d6157-9355-4fab-8d5f-b44e806ca53c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 219.6109 151.13 0)
+			(at 219.6109 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4881,7 +4881,7 @@
 	)
 	(global_label "COL_6"
 		(shape input)
-		(at 210.82 158.75 0)
+		(at 210.82 171.45 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4891,7 +4891,7 @@
 		)
 		(uuid "85e380c1-e726-4765-92e8-a78f000b224e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 219.6109 158.75 0)
+			(at 219.6109 171.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5011,9 +5011,9 @@
 			)
 		)
 	)
-	(global_label "GPIO21"
+	(global_label "GPIO16"
 		(shape input)
-		(at 210.82 163.83 0)
+		(at 210.82 151.13 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5023,7 +5023,7 @@
 		)
 		(uuid "a88daa61-fbc1-4937-962b-8862c7310117")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 220.6995 163.83 0)
+			(at 220.6995 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5077,9 +5077,9 @@
 			)
 		)
 	)
-	(global_label "GPIO22"
+	(global_label "GPIO17"
 		(shape input)
-		(at 210.82 166.37 0)
+		(at 210.82 153.67 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5089,7 +5089,7 @@
 		)
 		(uuid "c4893176-afd0-4451-a309-66c27a271c6f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 220.6995 166.37 0)
+			(at 220.6995 153.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5099,9 +5099,9 @@
 			)
 		)
 	)
-	(global_label "GPIO25"
+	(global_label "GPIO20"
 		(shape input)
-		(at 210.82 173.99 0)
+		(at 210.82 161.29 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5111,7 +5111,7 @@
 		)
 		(uuid "c88ef86a-b50b-4af4-8682-b141b5ebb6f9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 220.6995 173.99 0)
+			(at 220.6995 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5277,7 +5277,7 @@
 	)
 	(global_label "COL_8"
 		(shape input)
-		(at 210.82 153.67 0)
+		(at 210.82 166.37 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5287,7 +5287,7 @@
 		)
 		(uuid "f3eb9d37-fa60-45b0-b8d2-5b4f4e8f3719")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 219.6109 153.67 0)
+			(at 219.6109 166.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5343,7 +5343,7 @@
 	)
 	(global_label "COL_7"
 		(shape input)
-		(at 210.82 156.21 0)
+		(at 210.82 168.91 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5353,7 +5353,7 @@
 		)
 		(uuid "f73a94d2-68f5-40cd-90cc-0de0c2d742c0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 219.6109 156.21 0)
+			(at 219.6109 168.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)

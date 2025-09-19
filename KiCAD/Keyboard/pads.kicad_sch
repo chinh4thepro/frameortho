@@ -425,6 +425,28 @@
 			)
 		)
 	)
+	(global_label "GPIO18"
+		(shape input)
+		(at 54.61 123.19 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "466dbfb5-bd39-49f5-bc1d-c2fefd1bd0ac")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 64.4895 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "GPIO14"
 		(shape input)
 		(at 36.83 97.79 180)
@@ -557,6 +579,50 @@
 			)
 		)
 	)
+	(global_label "GPIO20"
+		(shape input)
+		(at 54.61 128.27 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8dddd2a4-c8f1-4960-9bf0-f6959534af20")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 64.4895 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GPIO17"
+		(shape input)
+		(at 54.61 120.65 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a990df3b-f1c3-489a-8b61-ee164a93371a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 64.4895 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "GPIO10"
 		(shape input)
 		(at 36.83 67.31 180)
@@ -623,6 +689,28 @@
 			)
 		)
 	)
+	(global_label "GPIO19"
+		(shape input)
+		(at 54.61 125.73 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cbf5089b-c6d4-4d0d-b47e-85438b2af72b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 64.4895 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "GPIO23"
 		(shape input)
 		(at 36.83 128.27 180)
@@ -641,6 +729,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GPIO16"
+		(shape input)
+		(at 54.61 118.11 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "e32fa24f-03fb-49f5-8910-fa2f264f395f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 64.4895 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
