@@ -3428,7 +3428,7 @@
 		)
 		(uuid "cc6c122c-1252-4caa-b141-559767f8c6e4")
 	)
-	(text "C(L)=2*(C(Xtal)-C(Stray))=2*(20-4)=32pF->33pF"
+	(text "C(L)=2*(C(Xtal)-C(Stray))=2*(18-5)=26pF->27pF"
 		(exclude_from_sim no)
 		(at 91.694 151.384 0)
 		(effects
@@ -6162,7 +6162,7 @@
 				)
 			)
 		)
-		(property "Value" "12MHz 20pF"
+		(property "Value" "12MHz 18pF"
 			(at 92.71 123.952 0)
 			(effects
 				(font

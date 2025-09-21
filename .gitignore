@@ -7,4 +7,6 @@ KiCAD/*/plots
 KiCAD/*/Libraries/Samac
 KiCAD/*/dfm
 KiCAD/*/datasheets
-
+KiCAD/*/*.log
+KiCAD/*/*.csv
+KiCAD/*/*.step
