@@ -9386,7 +9386,7 @@
 		)
 	)
 	(sheet
-		(at 367.03 15.24)
+		(at 367.03 15.875)
 		(size 38.1 25.4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9402,7 +9402,7 @@
 		)
 		(uuid "467d31cf-af42-4564-b159-c4cd876004df")
 		(property "Sheetname" "matrix"
-			(at 367.03 14.5284 0)
+			(at 367.03 15.1634 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9411,7 +9411,7 @@
 			)
 		)
 		(property "Sheetfile" "matrix.kicad_sch"
-			(at 367.03 41.2246 0)
+			(at 367.03 41.8596 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9428,7 +9428,49 @@
 		)
 	)
 	(sheet
-		(at 327.787 15.24)
+		(at 327.914 15.875)
+		(size 37.846 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "85fcfd63-2750-49d3-9edb-32706b94a356")
+		(property "Sheetname" "mounting holes"
+			(at 327.914 15.1634 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mounting_holes.kicad_sch"
+			(at 327.914 41.8596 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "frameortho"
+				(path "/a3a2616b-6905-4b87-92b2-8451542cf464"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 327.787 46.99)
 		(size 38.1 25.4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9444,7 +9486,7 @@
 		)
 		(uuid "c2218d23-663d-4cd3-940d-a7153cd05eaa")
 		(property "Sheetname" "pads"
-			(at 327.787 14.5284 0)
+			(at 327.787 46.2784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9453,7 +9495,7 @@
 			)
 		)
 		(property "Sheetfile" "pads.kicad_sch"
-			(at 327.787 41.2246 0)
+			(at 327.787 72.9746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
